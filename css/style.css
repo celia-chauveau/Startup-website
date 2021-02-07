@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+background-color: #FFE6E8;
+}
+
+h1{
+	font-family: 'Yusei Magic', sans-serif;
+	color: white 
+	text-align: center;
+	font-size: 50px;
+}
+
+h2{
+	color: #E78F8E;
+	font-family: 'Handlee', cursive;
+	font-weight: bold;
+	font-size: 20px;	
+}
+h3{
+	font-size: 20px;
+	font-family: 'Handlee', cursive;
+	color: #73ABD3;
+	text-align: center;
+}
+p{
+	color: #7D84B2;
+	font-family: 'Great Vibes', cursive;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+}
+img{
+	width:260px;
+	height: 300px;
+	border-radius: 30%;
+	background-position:center;
+	text-align:center;
+}
+a{
+	text-decoration: none;
+	font-family: 'Handlee', cursive;
+	text-align: center;
+}
+btn-blue{
+	border-9radius: 4px;
+	background-position: center;
+	text-align: center;
+}
+card-white{
+	background-color: white;
+	padding:25px;
+
+}
+h4 {
+	font-family: 'Poppins', sans-serif;
+	color:#7F0799;
+	}
